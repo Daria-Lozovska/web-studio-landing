@@ -63,3 +63,7 @@ The page includes sections such as hero, services, team, portfolio, and footer.
 ## 👩‍💻 Author
 
 GitHub: https://github.com/darialozovska
+
+## 📷 Screenshot
+
+![Web Studio Screenshot](./images/project-image.png)
